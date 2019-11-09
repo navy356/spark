@@ -1,4 +1,4 @@
-#This is a large heading
+# This is a large heading
 
 ## This is a smaller heading
 
@@ -12,9 +12,9 @@ A local *habitation* and a **name**.
 - list
 
 
-1.This is
-2.an ordered
-3.list
+1. This is
+2. an ordered
+3. list
 
 Here is `some code` in the middle of a sentence
 
