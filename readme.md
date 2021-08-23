@@ -5,4 +5,4 @@
 
 **That's all!**
 
-*Never gonna give you up @hk*
+*Never gonna give you up :p*
